@@ -1,0 +1,8 @@
+{
+  "name": "Random Bash",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "d7d762b3"
+}
